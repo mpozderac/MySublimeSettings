@@ -1,0 +1,24 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pep8",
+		"SublimeLinter-php",
+		"Tag",
+		"Vintageous"
+	]
+}

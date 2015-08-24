@@ -1,0 +1,26 @@
+{
+	"auto_indent": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 11,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"SublimeCodeIntel",
+		"Vintage",
+		"Markdown"
+	],
+	"rulers":
+	[
+		80,
+		120
+	],
+	"smart_indent": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
+	"use_tab_stops": true,
+	"vintageous_reset_mode_when_switching_tabs": true,
+	"vintageous_use_ctrl_keys": true,
+	"word_wrap": true
+}
